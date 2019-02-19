@@ -16,6 +16,7 @@ $ git init
 $ git add .
 ```
 To unstage a file, use 'git reset HEAD YOUR-FILE'.
+To unstage all files, use 'git reset'.
 
 6. Commit the files that you've staged in your local repository.
 ```
